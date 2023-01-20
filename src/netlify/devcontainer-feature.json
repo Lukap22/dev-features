@@ -1,7 +1,7 @@
 {
     "name": "Netlify CLI (via npm)",
     "id": "netlify",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Netlify is a platform that allows developers to build, deploy, and manage web projects. It provides a wide range of features, including continuous deployment, serverless functions, and a global content delivery network (CDN).",
     "options": {
         "version": {
