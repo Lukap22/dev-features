@@ -15,7 +15,7 @@ Netlify is a platform that allows developers to build, deploy, and manage web pr
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | Select the version of Prisma CLI to install. | string | latest |
+| version | Select the version of Netlify CLI to install. | string | latest |
 
 
 
