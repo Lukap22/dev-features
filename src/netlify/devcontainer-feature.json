@@ -1,12 +1,12 @@
 {
     "name": "Netlify CLI",
     "id": "netlify",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Netlify is a platform that allows developers to build, deploy, and manage web projects. It provides a wide range of features, including continuous deployment, serverless functions, and a global content delivery network (CDN).",
     "options": {
         "version": {
             "default": "latest",
-            "description": "Select the version of Prisma CLI to install.",
+            "description": "Select the version of Netlify CLI to install.",
             "proposals": [
                 "latest"
             ],
