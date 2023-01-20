@@ -1,5 +1,5 @@
 
-# Netlify CLI (via npm) (netlify)
+# Netlify CLI (netlify)
 
 Netlify is a platform that allows developers to build, deploy, and manage web projects. It provides a wide range of features, including continuous deployment, serverless functions, and a global content delivery network (CDN).
 
